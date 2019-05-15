@@ -1,4 +1,4 @@
 # gittest
 haha
 
-test only
+test for git
